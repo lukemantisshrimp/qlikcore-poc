@@ -14,7 +14,7 @@ var qixSchema = require("enigma.js/schemas/12.20.0.json");
 // As example, we'll add a connection to localhost.
 var config = {
     schema: qixSchema,
-    url: 'ws://104.248.164.133:19076/app',
+    url: 'ws://167.99.80.6:19076/app',
 
    /* url: 'ws://localhost:19076/app',*/
 };
